@@ -1,0 +1,22 @@
+{
+  "name": "YJUIExtension",
+  "version": "0.1.0",
+  "summary": "A short description of YJUIExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jack182617/YJUIExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jack": "550936272@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Jack182617/YJUIExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YJUIExtension/Classes/**/*"
+}
