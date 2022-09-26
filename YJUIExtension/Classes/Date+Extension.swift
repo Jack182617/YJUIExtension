@@ -7,7 +7,7 @@
 
 import Foundation
 extension Date {
-    func toZone(format: String) -> String {
+    public func toZone(format: String) -> String {
         let formatter = DateFormatter()
         formatter.dateFormat = format
         formatter.timeZone = TimeZone(identifier: "Asia/Shanghai")
